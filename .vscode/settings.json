@@ -2,7 +2,7 @@
  "commands": [
      "workbench.action.closeSidebar"
  ],
- "editor.fontSize": 16,
+ "editor.fontSize": 15,
  "editor.matchBrackets": "never",
  "editor.minimap.enabled": false,
  "editor.scrollbar.verticalScrollbarSize": 0,
